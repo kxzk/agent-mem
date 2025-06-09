@@ -1,5 +1,6 @@
 TODO
 
+- [ ] update $MEM_MASTER to ~/.config/agent-mem/agent.mem
 - [ ] make _next_id O(1) instead of O(n)
 
 NOTE
